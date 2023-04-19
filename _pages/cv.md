@@ -38,12 +38,38 @@ Work experience
   * Cleansed and analysed industry data to help industry clients understand market trends and pinpoint business development opportunities. Assisted in the creation of a business case based on the analysis. 
   * Using multiple data sources, designed and created an automated operational dashboard using Tableau, to provide weekly operational updates to the client’s leadership team.
   
+* **Jul. 21 – Sept. 21: Assistant Consultant@Frost & Sullivan**
+  * Conducted comprehensive market research on multiple emerging telecommunications, media & technology industries, focusing on industry trends, innovation, and growth opportunities.
+  * Gathered and conducted commercial analysis and competitor analysis for tech industry clients. Compiled report for IPO Support and Due Diligence.
+  
+* **Dec. 20 – Feb. 21: Algorithm & AI Engineer Intern@Shanjing Intelligent (Beijing) Technology**  
+  * Built a Profit Optimisation ML model using Hill Climbing Algorithm in Python and Python Libraries to optimise Return on Investment (ROI) for a leading confectionery food manufacturer. Stressed test model and helped fine-tune the model’s  accuracy using large volume of sales data.
+  * Predicted profit based on pricing recommendations and multiple commercial scenarios. Assisted the creation of client-facing presentations, summarising model outputs and recommending pricing strategies.
+
+* **Jun. 19 – Aug. 19: Teaching Assistant@CamExpress Educational Consultancy**
+  * Consulted students on their university application strategies and their personal statements.
+  * Acted as intermediary between students and expat teachers, helping new students to settle in the school and building relationships with their teachers.
+
+Leadership Experience
+=====
+
+* **Oct. 19 – Jun. 20: Events & Marketing Lead@eShine Charity, University of Oxford**
+  * Led the organisation of multiple volunteering events, from recruiting volunteers, to coordinating the logistics of the day.
+  * Designed social media campaigns and marketing materials to raise awareness of the charity.
+
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages:** English, Chinese(Mandarin)
+* **Technical Skills**
+  * Python: Pandas, SciPy, NumPy, boto3, psycopg2; Tensorflow, PyTorch
+  * SQL
+  * R
+  * MATLAB
+  * Business Intelligence:
+    * Quicksight
+    * Tableau
+    * PowerBI
+
 
