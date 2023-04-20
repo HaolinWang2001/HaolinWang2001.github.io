@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BA in Mathematics, University of Oxford, 2018-2021
+* BA Mathematics, Pembroke College, University of Oxford, 2018-2021
   * Courses include: 
     * Differential Equations (ODEs & PDEs)
     * Fluid Dynamics
@@ -19,7 +19,7 @@ Education
     * Mathematical Biology
     * Applied Probability
     * Numerical Analysis
-* MSc in Data Analytics, University of Sheffield. 2021-2022
+* MSc Data Analytics, University of Sheffield. 2021-2022
   * Courses include: 
     * Machine Learning
     * Natural Language Processing
