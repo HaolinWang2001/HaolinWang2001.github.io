@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version of my CV can be viewed [here](http://haolinwang2001.github.io/files/HaolinWangCV.pdf "CV")
+
 Education
 ======
 * BA Mathematics, Pembroke College, University of Oxford, 2018-2021
