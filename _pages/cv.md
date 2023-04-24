@@ -52,6 +52,10 @@ Work experience
   * Consulted students on their university application strategies and their personal statements.
   * Acted as intermediary between students and expat teachers, helping new students to settle in the school and building relationships with their teachers.
 
+* **Jan. 17 - Dec. 17:Class Assistant@Rydal Penrhos School**
+  * Volunteering at school Mathematics Department.
+  * Assisted teaching Year 7 and Year 10 math classes. Guided struggling students to complete their homework after class.
+
 Leadership Experience
 =====
 
