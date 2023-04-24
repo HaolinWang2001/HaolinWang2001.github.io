@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello and welcome to my personal page!
-My name is Haolin Wang and I am a recent graduate from the University of Sheffield with Master in Data Analytics. My academic background has equipped me with a strong foundation in machine learning, data analysis and mathematics. I am currently seeking a job as a data scientist or data analyst where I can apply my skills to solve real-world problems and help businesses make data-driven decisions.
+Hello and welcome to my personal page!  
+My name is Haolin Wang and I am a recent graduate from the University of Sheffield with Master in Data Analytics. My academic background has equipped me with a strong foundation in machine learning, data analysis and mathematics. I am currently seeking a job as a data scientist or data analyst where I can apply my skills to solve real-world problems and help businesses make data-driven decisions.  
 
 Aside from my formal education and work experience, I love to take online courses to fill the gap between theoretical knowledge and practical skills. These are some Coursera courses I have taken:
 
