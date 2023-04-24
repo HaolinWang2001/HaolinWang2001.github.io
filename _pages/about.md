@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ My name is Haolin Wang and I am a recent graduate from the University of Sheffie
 
 Aside from my formal education and work experience, I love to take online courses to fill the gap between theoretical knowledge and practical skills. These are some Coursera courses I have taken:
 
-[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)  
 [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science/home/welcome)  
 [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke/home/welcome)  
 [Supply Chain Logistics](https://www.coursera.org/learn/supply-chain-logistics/home/welcome)(I did this to get prepared for my internship at Amazon Transportation Service, and it was fun!)
